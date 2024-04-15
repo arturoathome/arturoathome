@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arturoathome
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on anything surrounding this field
 - 📫 How to reach me is through Linkedin.
 - 😄 Pronouns: he/him
